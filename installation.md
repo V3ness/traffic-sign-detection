@@ -1,6 +1,6 @@
 <h1>Installation Steps for Object Detection API for TF2 </h1>
 Steps: <br>
-1. Open CMD as administrator, key in the following commands: <br>
+1. Open anaconda powershell prompt (you can window+s and search for it), key in the following commands: <br>
 
 ```bash
 git clone https://github.com/tensorflow/models.git
