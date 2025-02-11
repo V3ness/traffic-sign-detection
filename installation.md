@@ -38,6 +38,5 @@ python setup.py build_ext --inplace
 
 <h3>Step to install MS C++ build tools: </h3>
 1. Go to this <a href="https://visualstudio.microsoft.com/visual-cpp-build-tools/"> link</a> to download. <br>
-2. Click 'Modify', and under the 'Optional', tick 'MSVC v140 ...' then download it.
+2. Click 'Modify', and under the 'Optional', tick 'MSVC v140 ...' then download it. <br>
 3. After downloading, launch the command prompt, then cd to your working folder.
-
